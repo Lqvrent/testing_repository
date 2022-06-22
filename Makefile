@@ -1,5 +1,5 @@
 all:
 	echo "all"
 
-clffean:
+clean:
 	echo "clean"
