@@ -1,5 +1,5 @@
 all:
-  echo "Ouais"
- 
+	echo "all"
+
 clean:
-  echo "Bouillant"
+	echo "clean"
